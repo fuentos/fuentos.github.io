@@ -7,3 +7,4 @@ Bob hat viele Baumaschinen, die er alle mag.
 * Helm
 * kann gut bauen
 * hat viele Freunde
+>Ich bin ein Handwerker
