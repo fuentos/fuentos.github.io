@@ -9,3 +9,4 @@ Bob hat viele Baumaschinen, die er alle mag.
 * hat viele Freunde
 >Ich bin ein Handwerker
 <img src="https://bilder.wunschliste.de/epg/b/bob-der-baumeister-rollo-und-der-hartnaeckige-3.jpg">
+
